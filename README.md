@@ -2,4 +2,4 @@ This repo contains javascript files that parse a dataset of statistics on the Ti
 
 To Do
 -add HTML&CSS to display statistics
--I am currently working on the display in another repo 
+-I have an example of the display that I am building in the following repo (<a href="https://github.com/MarkHarper/gulp-hw">https://github.com/MarkHarper/gulp-hw</a>). I am using chartist.js to display the statistics.
